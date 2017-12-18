@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.4'
 # Bootstrap sass
 gem 'bootstrap-sass', '3.3.7'
+# Hashing Password bcrypt
+gem 'bcrypt', '3.1.11'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
